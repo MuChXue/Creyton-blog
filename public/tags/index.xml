@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Z的世界</title>
+    <link>https://muchxue.github.io/Creyton-blog/tags/</link>
+    <description>Recent content in Tags on Z的世界</description>
+    <generator>Hugo</generator>
+    <language>en-zh</language>
+    <lastBuildDate>Tue, 04 Mar 2025 20:26:04 +0800</lastBuildDate>
+    <atom:link href="https://muchxue.github.io/Creyton-blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java</title>
+      <link>https://muchxue.github.io/Creyton-blog/tags/java/</link>
+      <pubDate>Tue, 04 Mar 2025 20:26:04 +0800</pubDate>
+      <guid>https://muchxue.github.io/Creyton-blog/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redis</title>
+      <link>https://muchxue.github.io/Creyton-blog/tags/redis/</link>
+      <pubDate>Tue, 04 Mar 2025 20:26:04 +0800</pubDate>
+      <guid>https://muchxue.github.io/Creyton-blog/tags/redis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
